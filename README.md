@@ -1,7 +1,8 @@
 # Harvard CS50x final project: COMPARE COUNTRIES
 
+#### Video Demo:  (https://youtu.be/3p5Hyy7kaG8)
 
-### Description:
+### Description
 
 #### See 'project' folder for Flask application scripts
 #### See 'resources' folder for data scraping scripts and the resulting csv database (which is used by the web app)
